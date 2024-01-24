@@ -1,0 +1,83 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorWebAssemblyApp
+build_property.RootNamespace = BlazorWebAssemblyApp
+build_property.ProjectDir = D:\Work Stuff\FullScale - Stuffs\Projects\ProofOfConcept\BlazorWebAssemblyApp\BlazorWebAssemblyApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Work Stuff\FullScale - Stuffs\Projects\ProofOfConcept\BlazorWebAssemblyApp\BlazorWebAssemblyApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Components/AuthenticationStatus.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBdXRoZW50aWNhdGlvblN0YXR1cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Components/EmployeeCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFbXBsb3llZUNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Components/ProfilePicture.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9maWxlUGljdHVyZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Components/QuickViewPopup.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xRdWlja1ZpZXdQb3B1cC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Components/Widgets/EmployeeCountWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXEVtcGxveWVlQ291bnRXaWRnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Components/Widgets/InboxWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXEluYm94V2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Pages/EmployeeDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVEZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Pages/EmployeeOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVPdmVydmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-a0retx75oi
+
+[D:/Work Stuff/FullScale - Stuffs/Projects/ProofOfConcept/BlazorWebAssemblyApp/BlazorWebAssemblyApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9i7d68iwnd

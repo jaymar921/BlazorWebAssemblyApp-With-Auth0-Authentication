@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssemblyApp", "BlazorWebAssemblyApp\BlazorWebAssemblyApp.csproj", "{EDCF274F-7583-4685-B9FD-D691050E2427}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Shared", "BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj", "{84F20BF6-7752-4A8F-A8CD-FC6044E668F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCF274F-7583-4685-B9FD-D691050E2427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCF274F-7583-4685-B9FD-D691050E2427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCF274F-7583-4685-B9FD-D691050E2427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCF274F-7583-4685-B9FD-D691050E2427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F20BF6-7752-4A8F-A8CD-FC6044E668F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F20BF6-7752-4A8F-A8CD-FC6044E668F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F20BF6-7752-4A8F-A8CD-FC6044E668F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F20BF6-7752-4A8F-A8CD-FC6044E668F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90E25457-FEEB-47E5-B444-5E1CBD8500EC}
+	EndGlobalSection
+EndGlobal
